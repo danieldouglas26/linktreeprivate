@@ -3,4 +3,4 @@
 
 Caso desejo incorporar ao seu projeto, só cloar este repositório.
 
-<li>[EXEMPLO]((https://danieldouglas26.github.io/linktreeprivate/))</li>
+<li>EXEMPLO: https://danieldouglas26.github.io/linktreeprivate/</li>
